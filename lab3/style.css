@@ -1,0 +1,61 @@
+body {
+  font-family: "Times New Roman", serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f6f9;
+  color: #333;
+}
+
+h1, h2, h3 {
+  color: #2c3e50;
+}
+
+h1 {
+  text-align: center;
+  padding: 20px;
+  background-color: #34495e;
+  color: white;
+}
+
+p {
+  margin-bottom: 12px;
+}
+
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.blog-post {
+  background: white;
+  padding: 20px;
+  margin: 20px auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  width: 80%;
+}
+
+/* Reflection sections */
+#Reflection-lab1,
+#Reflection-lab2,
+#Reflection-lab3 {
+  background: #ecf0f1;
+  border-left: 5px solid #2980b9;
+  padding: 20px;
+  margin: 20px auto;
+  width: 80%;
+  border-radius: 8px;
+}
+
+footer {
+  text-align: center;
+  background: #34495e;
+  color: white;
+  padding: 15px;
+  margin-top: 20px;
+}
